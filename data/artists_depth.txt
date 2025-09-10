@@ -1,0 +1,149 @@
+# Pop global
+Taylor Swift
+Ed Sheeran
+Ariana Grande
+Dua Lipa
+The Weeknd
+Billie Eilish
+Olivia Rodrigo
+Harry Styles
+Bruno Mars
+Shawn Mendes
+Justin Bieber
+Selena Gomez
+
+# Hip-Hop / Rap (US)
+Drake
+Kendrick Lamar
+J. Cole
+Travis Scott
+Nicki Minaj
+Doja Cat
+Lil Nas X
+Tyler, The Creator
+Cardi B
+21 Savage
+Jack Harlow
+Post Malone
+
+# Hip-Hop / Rap (DE)
+Apache 207
+Shirin David
+Luciano
+RAF Camora
+Bonez MC
+Ufo361
+Kontra K
+Capital Bra
+Nina Chuba
+Badmómzjay
+
+# Rock / Alternative
+Coldplay
+Imagine Dragons
+Arctic Monkeys
+Linkin Park
+Foo Fighters
+Red Hot Chili Peppers
+The Killers
+Muse
+Green Day
+The 1975
+Kings of Leon
+Tame Impala
+
+# Indie / Singer-Songwriter
+Lana Del Rey
+Florence + The Machine
+Hozier
+Phoebe Bridgers
+The Lumineers
+Mumford & Sons
+Bon Iver
+Vance Joy
+Sufjan Stevens
+Ben Howard
+
+# EDM / Dance
+Calvin Harris
+David Guetta
+Avicii
+Kygo
+Martin Garrix
+Marshmello
+Zedd
+Alan Walker
+Swedish House Mafia
+Tiësto
+
+# R&B / Soul
+SZA
+The Weeknd  # doppelt ok, wird dedupliziert
+Frank Ocean
+The Neighbourhood
+Miguel
+Khalid
+Alicia Keys
+Brent Faiyaz
+Daniel Caesar
+Giveon
+
+# Latin
+Bad Bunny
+J Balvin
+Karol G
+Rosalía
+Maluma
+Anitta
+Peso Pluma
+Rauw Alejandro
+Shakira
+Ozuna
+
+# Afrobeats
+Burna Boy
+Wizkid
+Rema
+Asake
+Tems
+Davido
+CKay
+Fireboy DML
+Omah Lay
+Ayra Starr
+
+# K-Pop
+BTS
+BLACKPINK
+TWICE
+SEVENTEEN
+NewJeans
+Stray Kids
+EXO
+(G)I-DLE
+ITZY
+Red Velvet
+
+# Deutschpop / Pop DE
+Mark Forster
+LEA
+Wincent Weiss
+Sarah Connor
+Nico Santos
+Clueso
+Max Giesinger
+Silbermond
+Johannes Oerding
+Lena
+
+# Electro / House (europ.)
+Robin Schulz
+David Guetta  # dedupe ok
+Alle Farben
+Purple Disco Machine
+Paul Kalkbrenner
+Disclosure
+Duke Dumont
+Diplo
+Sigala
+Gorgon City

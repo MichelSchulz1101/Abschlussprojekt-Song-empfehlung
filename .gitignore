@@ -1,0 +1,58 @@
+# Bytecode-Dateien
+__pycache__/
+*.py[cod]
+
+# Umgebungsvariablen und Geheimnisse
+.env
+
+# Virtuelle Umgebungen
+venv/
+.env/
+*.venv/
+Pipfile
+Pipfile.lock
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Output und Cache-Dateien
+*.log
+*.out
+*.err
+*.bak
+*.swp
+*.swo
+.DS_Store
+logs
+
+# VS Code Workspace und Settings
+.vscode/
+*.code-workspace
+
+# Python-Pakete & Build-Dateien
+*.egg-info/
+*.dist-info/
+build/
+dist/
+
+# Conda Umgebung
+env/
+.conda/
+*.conda
+
+# Jupyter Notebook Extensions & Caches
+.jupyter/
+.jupyter_cache/
+.ipython/
+__pycache__/
+
+# Matplotlib Cache
+~/.matplotlib/
+
+# ML Dateien
+*.keras
+
+# Unzipped data files
+unzipped_files
+
+.cache

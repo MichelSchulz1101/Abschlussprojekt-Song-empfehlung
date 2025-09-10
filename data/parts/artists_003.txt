@@ -1,0 +1,35 @@
+# K-Pop
+BTS
+BLACKPINK
+TWICE
+SEVENTEEN
+NewJeans
+Stray Kids
+EXO
+(G)I-DLE
+ITZY
+Red Velvet
+
+# Deutschpop / Pop DE
+Mark Forster
+LEA
+Wincent Weiss
+Sarah Connor
+Nico Santos
+Clueso
+Max Giesinger
+Silbermond
+Johannes Oerding
+Lena
+
+# Electro / House (europ.)
+Robin Schulz
+David Guetta  # dedupe ok
+Alle Farben
+Purple Disco Machine
+Paul Kalkbrenner
+Disclosure
+Duke Dumont
+Diplo
+Sigala
+Gorgon City
