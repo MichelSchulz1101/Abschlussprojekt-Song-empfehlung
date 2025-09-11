@@ -1,0 +1,11 @@
+{
+  "cb_genre_artist": {
+    "path": "models/cb_genre_artist.joblib"
+  },
+  "cb_genre_artist_title": {
+    "path": "models/cb_genre_artist_title.joblib"
+  },
+  "cb_artist_heavy": {
+    "path": "models/cb_artist_heavy.joblib"
+  }
+}
