@@ -1,4 +1,4 @@
-# Pop global
+
 Taylor Swift
 Ed Sheeran
 Ariana Grande
@@ -11,8 +11,6 @@ Bruno Mars
 Shawn Mendes
 Justin Bieber
 Selena Gomez
-
-# Hip-Hop / Rap (US)
 Drake
 Kendrick Lamar
 J. Cole
@@ -25,8 +23,6 @@ Cardi B
 21 Savage
 Jack Harlow
 Post Malone
-
-# Hip-Hop / Rap (DE)
 Apache 207
 Shirin David
 Luciano
@@ -37,8 +33,6 @@ Kontra K
 Capital Bra
 Nina Chuba
 Badmómzjay
-
-# Rock / Alternative
 Coldplay
 Imagine Dragons
 Arctic Monkeys
@@ -51,8 +45,6 @@ Green Day
 The 1975
 Kings of Leon
 Tame Impala
-
-# Indie / Singer-Songwriter
 Lana Del Rey
 Florence + The Machine
 Hozier
@@ -63,8 +55,6 @@ Bon Iver
 Vance Joy
 Sufjan Stevens
 Ben Howard
-
-# EDM / Dance
 Calvin Harris
 David Guetta
 Avicii
@@ -75,8 +65,6 @@ Zedd
 Alan Walker
 Swedish House Mafia
 Tiësto
-
-# R&B / Soul
 SZA
 The Weeknd  # doppelt ok, wird dedupliziert
 Frank Ocean
@@ -87,8 +75,6 @@ Alicia Keys
 Brent Faiyaz
 Daniel Caesar
 Giveon
-
-# Latin
 Bad Bunny
 J Balvin
 Karol G
@@ -99,8 +85,6 @@ Peso Pluma
 Rauw Alejandro
 Shakira
 Ozuna
-
-# Afrobeats
 Burna Boy
 Wizkid
 Rema
@@ -111,8 +95,6 @@ CKay
 Fireboy DML
 Omah Lay
 Ayra Starr
-
-# K-Pop
 BTS
 BLACKPINK
 TWICE
@@ -123,8 +105,6 @@ EXO
 (G)I-DLE
 ITZY
 Red Velvet
-
-# Deutschpop / Pop DE
 Mark Forster
 LEA
 Wincent Weiss
@@ -135,8 +115,6 @@ Max Giesinger
 Silbermond
 Johannes Oerding
 Lena
-
-# Electro / House (europ.)
 Robin Schulz
 David Guetta  # dedupe ok
 Alle Farben
@@ -147,3 +125,77 @@ Duke Dumont
 Diplo
 Sigala
 Gorgon City
+Twenty One Pilots
+a-ha
+Madsen
+Irie R
+Tom Rosenthal
+JEREMIAS
+Kraftklub
+Kenan
+Duran Duran
+Ran-D
+Scooter
+Da Tweekaz
+Die Atzen
+Jason Derulo
+HBz
+Timmy Trumpet
+Nena
+Juli
+Sean Paul
+Macklemore
+The Beatles
+Michael jackson
+Milan
+Sportfreunde Stiller
+Die Ärzte
+Ozzy Osbourne
+Black Sabbath
+ABBA
+The Rolling Stones
+Queen
+Madonna
+Nirvana
+Bee Gees
+Prince
+Bob Dylan
+AC/DC
+Metallica
+Herbert Grönemeyer
+Peter Maffay
+Heino
+Roland Kaiser
+Die Flippers
+Elton John
+Rammstein
+Bob Marley
+Backstreet Boys
+Die Toten Hosen
+Tokio Hotel
+Johann Sebastian Bach
+Wolfgang Amadeus Mozart
+Ludwig van Beethoven
+Elvis Presley
+Mazzy Star
+sombr
+Zartmann
+Berq
+Ivo Martin
+Cigarettes After Sex
+Ella Stern
+Marianne Beaulieu
+AURORA
+Leuchtstoff
+alt-J
+flo
+Mr.Kitty
+Beach House
+Rosenrausch
+Akros
+Take Care
+Edwin Rossen
+J. Cole
+Mac Miller
+Moritz
+EZ Mil
