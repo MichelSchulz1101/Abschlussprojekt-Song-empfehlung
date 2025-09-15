@@ -1,11 +1,5 @@
 {
-  "neighbors_genre_artist_title": {
-    "path": "models/cb_genre_artist_title.joblib"
-  },
-  "kmeans": {
-    "path": "models/kmeans_noaudio.joblib"
-  },
-    "RandomForrest_genre": {
-    "path": "models/rf_genre_noaudio.joblib"
-  }
+  "neighbors_content": { "path": "models/neighbors_content.joblib" },
+  "kmeans":            { "path": "models/kmeans.joblib" },
+  "rf_artist":         { "path": "models/rf_artist.joblib" }
 }
