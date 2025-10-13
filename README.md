@@ -17,9 +17,27 @@ Wir nutzen **Text** (Artist, Titel, Genres) und **Numeric** (Jahr, explicit) und
 > Du hast bereits `models/` (mit `.joblib`) und `models/registry.json` im Repo?  
 > Dann reichen 5 Befehle:
 
+### GIT LFS Einrichten
+
+**1. Installation:**
+
+- MacOS
+
+```bash
+brew install git-lfs
+git lfs install
+```
+
+- Windows
+
+```cmd
+git lfs install
+```
+
 ```bash
 # 1) Repo holen
 git clone <DEIN_REPO_URL>
+git lfs pull
 cd <DEIN_PROJEKT_ORDNER>
 
 # 2) Virtuelle Umgebung
